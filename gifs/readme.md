@@ -1,2 +1,2 @@
 ## Prototype MRCS Animation Donation
-![MRCS Donation](gifs/MRCS-Donation.gif)
+![MRCS Donation](MRCS-Donation.gif)
